@@ -19,9 +19,45 @@ This lab helps in understanding how to separate content from presentation using 
 - **Code Editor:** Visual Studio Code
 - **Browser:** Google Chrome / Mozilla Firefox
 
+---
+
+## Features Implemented
+
+### HTML Structure
+- Semantic elements: `header`, `main`, `section`, `footer`
+- Student information section
+- Course list section
+- Hobbies section
+- Contact details section
+
+### CSS Selectors Used
+- **Universal Selector** – Reset margin and padding
+- **Element Selectors** – Styling headings and paragraphs
+- **Class Selector** – Reusable section container (`section-box`)
+- **ID Selector** – Highlighting student name (`student-name`)
+- **Group Selector** – Styling multiple heading levels
+- **Descendant Selector** – Styling list items inside specific lists
+
+---
+
+## Inspection Task
+Using the browser’s **Inspect Tool**:
+- Identified one element styled using a **class selector**
+- Identified one element styled using an **ID selector**
+
+These elements are documented as **HTML comments** inside `index.html`.
+
+---
+
 ## Screenshots 
 ![Project Folder Structure](./screenshot/folder_structure.png)
 
 ![Web Page Output](./screenshot/webpage_output.png)
 
 ![Class Selector](./screenshot/class_selector_inspect.png)
+
+---
+
+## Author
+**Name:** Arun Bhul  
+**Program:** Software Engineering  
