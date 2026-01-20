@@ -20,8 +20,8 @@ This lab helps in understanding how to separate content from presentation using 
 - **Browser:** Google Chrome / Mozilla Firefox
 
 ## Screenshots 
-![Project Folder Structure](../screenshot/folder_structure.png)
+![Project Folder Structure](./screenshot/folder_structure.png)
 
-![Web Page Output](../screenshot/webpage_output.png)
+![Web Page Output](./screenshot/webpage_output.png)
 
-![Class Selector](../screenshot/class_selector_inspect.png)
+![Class Selector](./screenshot/class_selector_inspect.png)
