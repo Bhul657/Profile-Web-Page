@@ -1,0 +1,55 @@
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Element Selectors */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+/* Group Selectors */
+h2, h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Class Selector */
+.section-box {
+    border: 1px solid #aaa;
+    padding: 15px;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+/* ID Selector */
+#student-name {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+/* Descendant Selectors */
+.course-list li {
+    color: #0055aa;
+    margin-left: 20px;
+}
+
+.hobby-list li {
+    color: #aa5500;
+    margin-left: 20px;
+}
+
+/* Footer Styling (element selector) */
+footer p {
+    text-align: center;
+    margin: 20px;
+    font-size: 14px;
+}
